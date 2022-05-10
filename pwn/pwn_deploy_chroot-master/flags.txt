@@ -1,0 +1,3 @@
+{"flag": "flag{80162462-c4ce-4b72-85ce-a9c333c4815e}", "port": 30010, "filename": "pwn4"}
+{"flag": "flag{af949d19-054a-4346-a4b0-4b7a6eadd3e9}", "port": 30011, "filename": "pwn5"}
+{"flag": "flag{c79520dd-2306-4687-81fa-16099e627c2e}", "port": 30012, "filename": "pwn6"}
